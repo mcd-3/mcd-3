@@ -9,9 +9,9 @@ Professionally I create developer tools primarily using JavaScript, but I also l
 - 📱  Kotlin
 - ☕ Java
 - ⌨️ SQL
+- 🐍 [Some] Python
 - 🎼 [Some] C#
 - 🖥️ [Some] PHP
-- 🐍 [Little] Python
 - ⚙️ [Little] C/C++
 
 ### Various Frameworks/Tools
