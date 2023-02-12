@@ -5,7 +5,7 @@ Professionally I create developer tools primarily using JavaScript, but I also l
 
 ### Programming Languages
 - 🌐 JavaScript
--  📱 Kotlin
+- 📲 Kotlin
 - ☕ Java
 - ⌨️ SQL
 - 🎨 HTML/CSS
