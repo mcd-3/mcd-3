@@ -9,7 +9,7 @@ Professionally I create developer tools primarily using JavaScript, but I also l
 - ☕ Java
 - ⌨️ SQL
 - 🎨 HTML/CSS
-- 🐍 [Some] Python
+- 🐍 Python
 - 🎼 [Some] C#
 - 🖥️ [Some] PHP
 - ⚙️ [Little] C/C++
@@ -18,8 +18,8 @@ Professionally I create developer tools primarily using JavaScript, but I also l
 - 🟩 NodeJS
 - 💁‍♂️ Jenkins
 - 🚀 Android Jetpack & Jetpack Compose
-- 🐳 [Some] Docker
-- ⚪ [Some] CircleCI
+- 🐳 Docker
+- ⚪ CircleCI
 
 ### Development Interests
 - 💻 Web Development
