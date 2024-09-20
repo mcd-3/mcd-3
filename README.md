@@ -10,9 +10,9 @@ Professionally I create developer tools primarily using JavaScript, but I also l
 - ⌨️ SQL
 - 🎨 HTML/CSS
 - 🐍 Python
-- 🎼 [Some] C#
-- 🖥️ [Some] PHP
-- ⚙️ [Little] C/C++
+- 🎼 C#
+- 🖥️ PHP
+- ⚙️ Rust
 
 ### Various Frameworks/Tools
 - 🟩 NodeJS
