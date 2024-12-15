@@ -16,9 +16,10 @@ Professionally I create developer tools primarily using JavaScript, but I also l
 
 ### Various Frameworks/Tools
 - 🟩 NodeJS
-- 💁‍♂️ Jenkins
+- 🔵 React
 - 🚀 Android Jetpack & Jetpack Compose
 - 🐳 Docker
+- 💁‍♂️ Jenkins
 - ⚪ CircleCI
 
 ### Development Interests
