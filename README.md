@@ -1,6 +1,6 @@
 ## Hello, I'm Matthew! 👋
 
-I'm a software engineer who loves to dabble in various different tech stacks!<br>
+I'm a software engineer who loves to experiment with different tech stacks!<br>
 
 ### Programming Languages
 - 🌐 JavaScript
